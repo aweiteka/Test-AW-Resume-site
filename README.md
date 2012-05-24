@@ -6,7 +6,7 @@ version: 0.1
 This Python *unittest* script tests several components of [Aaron Weitekamp's resume](http://resume-aaronweitekamp.rhcloud.com/ "Aaron Weitekamp's resume") site using [Selenium WebDriver](http://seleniumhq.org/projects/webdriver/ "Selenium WebDriver"). It may be used as a starting point template for web site testing.
 
 ## Files ##
-    README.markdown (this file)
+    README.md (this file)
     test_awresume.py
 
 ## Run as ##
